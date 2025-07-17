@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\bin\Debug\net8.0\OperatorsExample.exe
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\bin\Debug\net8.0\OperatorsExample.deps.json
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\bin\Debug\net8.0\OperatorsExample.runtimeconfig.json
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\bin\Debug\net8.0\OperatorsExample.dll
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\bin\Debug\net8.0\OperatorsExample.pdb
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.dll
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\refint\OperatorsExample.dll
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.pdb
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\OperatorsExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\OperatorsExample\OperatorsExample\obj\Debug\net8.0\ref\OperatorsExample.dll
