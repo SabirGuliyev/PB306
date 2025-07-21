@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\bin\Debug\net8.0\SwitchCaseForExample.exe
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\bin\Debug\net8.0\SwitchCaseForExample.deps.json
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\bin\Debug\net8.0\SwitchCaseForExample.runtimeconfig.json
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\bin\Debug\net8.0\SwitchCaseForExample.dll
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\bin\Debug\net8.0\SwitchCaseForExample.pdb
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.dll
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\refint\SwitchCaseForExample.dll
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.pdb
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\SwitchCaseForExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\SwitchCaseForExample\SwitchCaseForExample\obj\Debug\net8.0\ref\SwitchCaseForExample.dll
