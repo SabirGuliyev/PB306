@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\bin\Debug\net8.0\WhileArrayExample.exe
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\bin\Debug\net8.0\WhileArrayExample.deps.json
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\bin\Debug\net8.0\WhileArrayExample.runtimeconfig.json
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\bin\Debug\net8.0\WhileArrayExample.dll
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\bin\Debug\net8.0\WhileArrayExample.pdb
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.dll
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\refint\WhileArrayExample.dll
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.pdb
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\WhileArrayExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\WhileArrayExample\WhileArrayExample\obj\Debug\net8.0\ref\WhileArrayExample.dll
