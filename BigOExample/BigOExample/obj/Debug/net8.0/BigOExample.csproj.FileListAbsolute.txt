@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\BigOExample\BigOExample\bin\Debug\net8.0\BigOExample.exe
+C:\Users\sabir\Desktop\BigOExample\BigOExample\bin\Debug\net8.0\BigOExample.deps.json
+C:\Users\sabir\Desktop\BigOExample\BigOExample\bin\Debug\net8.0\BigOExample.runtimeconfig.json
+C:\Users\sabir\Desktop\BigOExample\BigOExample\bin\Debug\net8.0\BigOExample.dll
+C:\Users\sabir\Desktop\BigOExample\BigOExample\bin\Debug\net8.0\BigOExample.pdb
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.dll
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\refint\BigOExample.dll
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.pdb
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\BigOExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BigOExample\BigOExample\obj\Debug\net8.0\ref\BigOExample.dll
