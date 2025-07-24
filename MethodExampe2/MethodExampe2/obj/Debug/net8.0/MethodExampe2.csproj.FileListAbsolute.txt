@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.AssemblyInfo.cs
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\bin\Debug\net8.0\MethodExampe2.exe
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\bin\Debug\net8.0\MethodExampe2.deps.json
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\bin\Debug\net8.0\MethodExampe2.runtimeconfig.json
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\bin\Debug\net8.0\MethodExampe2.dll
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\bin\Debug\net8.0\MethodExampe2.pdb
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.dll
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\refint\MethodExampe2.dll
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.pdb
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\MethodExampe2.genruntimeconfig.cache
+C:\Users\sabir\Desktop\MethodExampe2\MethodExampe2\obj\Debug\net8.0\ref\MethodExampe2.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\MethodExampe2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A18D2A-8173-4E41-A202-9C1EE4A939D6}|MethodExampe2\\MethodExampe2.csproj|c:\\users\\sabir\\desktop\\methodexampe2\\methodexampe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A18D2A-8173-4E41-A202-9C1EE4A939D6}|MethodExampe2\\MethodExampe2.csproj|solutionrelative:methodexampe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\MethodExampe2\\MethodExampe2\\Program.cs",
+              "RelativeDocumentMoniker": "MethodExampe2\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\MethodExampe2\\MethodExampe2\\Program.cs",
+              "RelativeToolTip": "MethodExampe2\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:51:58.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
