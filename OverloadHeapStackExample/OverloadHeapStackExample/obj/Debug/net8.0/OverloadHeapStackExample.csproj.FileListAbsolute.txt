@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\bin\Debug\net8.0\OverloadHeapStackExample.exe
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\bin\Debug\net8.0\OverloadHeapStackExample.deps.json
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\bin\Debug\net8.0\OverloadHeapStackExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\bin\Debug\net8.0\OverloadHeapStackExample.dll
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\bin\Debug\net8.0\OverloadHeapStackExample.pdb
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.dll
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\refint\OverloadHeapStackExample.dll
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.pdb
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\OverloadHeapStackExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\OverloadHeapStackExample\OverloadHeapStackExample\obj\Debug\net8.0\ref\OverloadHeapStackExample.dll
