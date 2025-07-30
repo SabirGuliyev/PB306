@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\StringArrayExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A1CBBD-AC55-4AD9-B3A6-B5EAA2C7FEB8}|StringArrayExample\\StringArrayExample.csproj|c:\\users\\sabir\\desktop\\pb306\\stringarrayexample\\stringarrayexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A1CBBD-AC55-4AD9-B3A6-B5EAA2C7FEB8}|StringArrayExample\\StringArrayExample.csproj|solutionrelative:stringarrayexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StringArrayExample\\StringArrayExample\\Program.cs",
+              "RelativeDocumentMoniker": "StringArrayExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StringArrayExample\\StringArrayExample\\Program.cs",
+              "RelativeToolTip": "StringArrayExample\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:01:25.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

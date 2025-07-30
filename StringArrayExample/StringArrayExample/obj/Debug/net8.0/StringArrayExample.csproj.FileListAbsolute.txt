@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\bin\Debug\net8.0\StringArrayExample.exe
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\bin\Debug\net8.0\StringArrayExample.deps.json
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\bin\Debug\net8.0\StringArrayExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\bin\Debug\net8.0\StringArrayExample.dll
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\bin\Debug\net8.0\StringArrayExample.pdb
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.dll
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\refint\StringArrayExample.dll
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.pdb
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\StringArrayExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\StringArrayExample\StringArrayExample\obj\Debug\net8.0\ref\StringArrayExample.dll
