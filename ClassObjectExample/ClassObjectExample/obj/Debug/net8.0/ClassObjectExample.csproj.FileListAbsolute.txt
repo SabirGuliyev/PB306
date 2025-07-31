@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\bin\Debug\net8.0\ClassObjectExample.exe
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\bin\Debug\net8.0\ClassObjectExample.deps.json
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\bin\Debug\net8.0\ClassObjectExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\bin\Debug\net8.0\ClassObjectExample.dll
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\bin\Debug\net8.0\ClassObjectExample.pdb
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.dll
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\refint\ClassObjectExample.dll
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.pdb
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ClassObjectExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\ClassObjectExample\ClassObjectExample\obj\Debug\net8.0\ref\ClassObjectExample.dll
