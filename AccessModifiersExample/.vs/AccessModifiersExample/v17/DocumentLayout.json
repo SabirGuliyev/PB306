@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifiersexample\\accessmodifiersexample\\accessmodifiersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A174E66-1141-48BC-966C-DB2F9FB9906C}|AccessModifiersExample\\AccessModifiersExample.csproj|solutionrelative:accessmodifiersexample\\accessmodifiersexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\AdminUser.cs",
+              "RelativeToolTip": "AccessModifiersExample\\Models\\AdminUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:23:45.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\User.cs",
+              "RelativeToolTip": "AccessModifiersExample\\Models\\User.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:18:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\Product.cs",
+              "RelativeToolTip": "AccessModifiersExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:28:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Models\\Student.cs",
+              "RelativeToolTip": "AccessModifiersExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:07:42.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessModifiersExample",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\AccessModifiersExample.csproj",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\AccessModifiersExample.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\AccessModifiersExample.csproj",
+              "RelativeToolTip": "AccessModifiersExample\\AccessModifiersExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T15:07:15.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiersExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersExample\\AccessModifiersExample\\Program.cs",
+              "RelativeToolTip": "AccessModifiersExample\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:06:40.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

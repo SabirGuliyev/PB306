@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\bin\Debug\net8.0\AccessModifiersExample.exe
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\bin\Debug\net8.0\AccessModifiersExample.deps.json
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\bin\Debug\net8.0\AccessModifiersExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\bin\Debug\net8.0\AccessModifiersExample.dll
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\bin\Debug\net8.0\AccessModifiersExample.pdb
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.dll
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\refint\AccessModifiersExample.dll
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.pdb
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\AccessModifiersExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\AccessModifiersExample\AccessModifiersExample\obj\Debug\net8.0\ref\AccessModifiersExample.dll
