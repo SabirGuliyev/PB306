@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Education/1.0.0": {
+        "dependencies": {
+          "AccessModifiersPart2": "1.0.0"
+        },
+        "runtime": {
+          "Education.dll": {}
+        }
+      },
+      "AccessModifiersPart2/1.0.0": {
+        "runtime": {
+          "AccessModifiersPart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Education/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessModifiersPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\bin\Debug\net8.0\RecordExample.exe
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\bin\Debug\net8.0\RecordExample.deps.json
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\bin\Debug\net8.0\RecordExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\bin\Debug\net8.0\RecordExample.dll
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\bin\Debug\net8.0\RecordExample.pdb
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.dll
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\refint\RecordExample.dll
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.pdb
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\RecordExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\RecordExample\RecordExample\obj\Debug\net8.0\ref\RecordExample.dll

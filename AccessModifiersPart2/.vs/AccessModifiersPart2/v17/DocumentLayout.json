@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\education\\education.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|solutionrelative:education\\education.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\accessmodifierspart2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|solutionrelative:accessmodifierspart2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\accessmodifierspart2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|solutionrelative:accessmodifierspart2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\education\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|solutionrelative:education\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\accessmodifierspart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993048A0-C1B4-4206-BF4D-AAAA50636ADE}|AccessModifiersPart2\\AccessModifiersPart2.csproj|solutionrelative:accessmodifierspart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|c:\\users\\sabir\\desktop\\pb306\\accessmodifierspart2\\education\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7F5BE1-0EEB-4421-A4CC-3CAC5D96ADBD}|Education\\Education.csproj|solutionrelative:education\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Teacher.cs",
+              "RelativeDocumentMoniker": "Education\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Teacher.cs",
+              "RelativeToolTip": "Education\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:29:42.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Education",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Education.csproj",
+              "RelativeDocumentMoniker": "Education\\Education.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Education.csproj",
+              "RelativeToolTip": "Education\\Education.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T16:18:47.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Student.cs",
+              "RelativeDocumentMoniker": "Education\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\Education\\Student.cs",
+              "RelativeToolTip": "Education\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:18:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AccessModifiersPart2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Models\\Employee.cs",
+              "RelativeToolTip": "AccessModifiersPart2\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:13:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AccessModifiersPart2\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Models\\Person.cs",
+              "RelativeToolTip": "AccessModifiersPart2\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:12:06.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiersPart2\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AccessModifiersPart2\\AccessModifiersPart2\\Program.cs",
+              "RelativeToolTip": "AccessModifiersPart2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:10:22.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

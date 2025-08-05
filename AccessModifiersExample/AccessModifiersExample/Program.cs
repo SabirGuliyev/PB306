@@ -29,17 +29,43 @@ namespace AccessModifiersExample
             //product.PrintInfo(); 
             #endregion
 
-            User user = new User("sabir","guliyev",27);
+            //User user = new User("sabir","guliyev",27);
 
 
-            //user.Username = "Test";
-            user.Password = "Sabir123";
+            ////user.Username = "Test";
+            //user.Password = "Sabir123";
 
-            user.Name= "Test";
+            //user.Name= "Test";
 
-            user.Age = -90;
+            //user.Age = -90;
 
-            Console.WriteLine(user.Name+" "+user.Age+" "+user.Username+" "+user.Password);
+            //Console.WriteLine(user.Name+" "+user.Age+" "+user.Username+" "+user.Password);
+
+
+
+
+
+
+
+
+            Phone phone = new Phone("Samsung", "A55", 900m, 750m, 17, 8, "red");
+
+            phone.Call(20);
+
+            phone.Pay(2m);
+
+            phone.Call(10);
+
+
+            Console.WriteLine($"Yekun:{phone.Balance}");
+
+
+
+
+
+
+
+
         }
     }
 

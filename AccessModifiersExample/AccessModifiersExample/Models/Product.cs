@@ -8,14 +8,100 @@ namespace AccessModifiersExample.Models
 {
     
 
-    internal class Product
+     class Product
     {
-        public string Brand;
-        public string Model;
-        public decimal Price;
-        public decimal Cost;
-        public decimal Income;
-        public int Count;
+        string _brand;
+        string _model;
+        decimal _price;
+        decimal _cost;
+        decimal _income;
+        int _count;
+        
+
+
+        public string Brand
+        {
+            get
+            {
+                return _brand;
+            }
+            set
+            {
+                value = value.Trim();
+                if (value.Length > 0)
+                {
+                    _brand = value;
+                }
+            }
+        }
+        public string Model
+        {
+            get
+            {
+                return _model;
+            }
+            set
+            {
+                value = value.Trim();
+                if (value.Length > 0)
+                {
+                    _model = value;
+                }
+            }
+        }
+
+        public decimal Price
+        {
+            get
+            {
+                return _price;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    _price = value;
+                }
+            }
+        }
+        public decimal Cost
+        {
+            get
+            {
+                return _cost;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    _cost = value;
+                }
+            }
+        }
+
+        //Get only property
+        public decimal Income
+        {
+            get
+            {
+                return _income;
+            }
+        }
+        public int Count
+        {
+            get
+            {
+                return _count;
+            }
+            private set
+            {
+                if(value >= 0)
+                {
+                    value = _count;
+                }
+            }
+        }
+
 
         public Product(string brand,string model,decimal price,decimal cost,int count)
         {
@@ -23,10 +109,8 @@ namespace AccessModifiersExample.Models
             Model = model;
             Price = price;
             Cost = cost;
-            if (count > 0)
-            {
-                Count = count;
-            }
+            Count = count;
+
             
         }
 
@@ -42,7 +126,7 @@ namespace AccessModifiersExample.Models
             {
                 Count-=count;
                     
-                Income += (Price - Cost)*count;
+               _income += (Price - Cost)*count;
                 Console.WriteLine("Satish ugurla heyata kecirildi");
             }
             
