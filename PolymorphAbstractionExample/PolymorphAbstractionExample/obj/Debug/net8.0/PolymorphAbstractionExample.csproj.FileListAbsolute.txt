@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\bin\Debug\net8.0\PolymorphAbstractionExample.exe
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\bin\Debug\net8.0\PolymorphAbstractionExample.deps.json
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\bin\Debug\net8.0\PolymorphAbstractionExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\bin\Debug\net8.0\PolymorphAbstractionExample.dll
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\bin\Debug\net8.0\PolymorphAbstractionExample.pdb
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.dll
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\refint\PolymorphAbstractionExample.dll
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.pdb
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\PolymorphAbstractionExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\PolymorphAbstractionExample\PolymorphAbstractionExample\obj\Debug\net8.0\ref\PolymorphAbstractionExample.dll

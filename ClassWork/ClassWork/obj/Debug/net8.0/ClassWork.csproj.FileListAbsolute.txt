@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.exe
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.deps.json
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.dll
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\bin\Debug\net8.0\ClassWork.pdb
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.sourcelink.json
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.dll
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\refint\ClassWork.dll
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.pdb
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ClassWork.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\ClassWork\ClassWork\obj\Debug\net8.0\ref\ClassWork.dll

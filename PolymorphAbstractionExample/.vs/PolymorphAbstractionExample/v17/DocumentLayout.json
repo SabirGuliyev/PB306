@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|c:\\users\\sabir\\desktop\\pb306\\polymorphabstractionexample\\polymorphabstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|solutionrelative:polymorphabstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|c:\\users\\sabir\\desktop\\pb306\\polymorphabstractionexample\\polymorphabstractionexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|solutionrelative:polymorphabstractionexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|c:\\users\\sabir\\desktop\\pb306\\polymorphabstractionexample\\polymorphabstractionexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|solutionrelative:polymorphabstractionexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|c:\\users\\sabir\\desktop\\pb306\\polymorphabstractionexample\\polymorphabstractionexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|solutionrelative:polymorphabstractionexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|c:\\users\\sabir\\desktop\\pb306\\polymorphabstractionexample\\polymorphabstractionexample\\models\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161233E7-A227-402B-A7DC-6E7A711D0033}|PolymorphAbstractionExample\\PolymorphAbstractionExample.csproj|solutionrelative:polymorphabstractionexample\\models\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PolymorphAbstractionExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Student.cs",
+              "RelativeToolTip": "PolymorphAbstractionExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:28:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PolymorphAbstractionExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Person.cs",
+              "RelativeToolTip": "PolymorphAbstractionExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:27:51.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "PolymorphAbstractionExample\\Models\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\BookLibrary.cs",
+              "RelativeToolTip": "PolymorphAbstractionExample\\Models\\BookLibrary.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:16:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PolymorphAbstractionExample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Models\\Book.cs",
+              "RelativeToolTip": "PolymorphAbstractionExample\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:12:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphAbstractionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\PolymorphAbstractionExample\\PolymorphAbstractionExample\\Program.cs",
+              "RelativeToolTip": "PolymorphAbstractionExample\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:59:42.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
