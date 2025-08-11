@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\vehicles\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\vehicles\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\animals\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\animals\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\sabir\\desktop\\pb306\\abstractclassexample\\abstractclassexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837B4E23-B90B-44B5-858F-CEC1C82A7BC3}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Duck.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Duck.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Duck.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Duck.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:24:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISwim.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Interfaces\\ISwim.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Interfaces\\ISwim.cs",
+              "RelativeToolTip": "AbstractClassExample\\Interfaces\\ISwim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:23:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Interfaces\\IFly.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Interfaces\\IFly.cs",
+              "RelativeToolTip": "AbstractClassExample\\Interfaces\\IFly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:08:51.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Vehicles\\Plane.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Vehicles\\Plane.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Vehicles\\Plane.cs",
+              "RelativeToolTip": "AbstractClassExample\\Vehicles\\Plane.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:46:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Penguin.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Penguin.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Penguin.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Penguin.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:40:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Eagle.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Eagle.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Eagle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:39:18.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Bird.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Bird.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Bird.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:36:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "AbstractClassExample\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:04:39.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Cow.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Cow.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Cow.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Cow.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:39:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Dog.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Dog.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA+wAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:38:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Animals\\Animal.cs",
+              "RelativeToolTip": "AbstractClassExample\\Animals\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:35:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Manager.cs",
+              "RelativeToolTip": "AbstractClassExample\\Models\\Manager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:05:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Employee.cs",
+              "RelativeToolTip": "AbstractClassExample\\Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:05:10.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Models\\Person.cs",
+              "RelativeToolTip": "AbstractClassExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:04:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeToolTip": "AbstractClassExample\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:59:52.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
