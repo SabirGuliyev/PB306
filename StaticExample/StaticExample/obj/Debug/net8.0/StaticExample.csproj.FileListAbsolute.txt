@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\bin\Debug\net8.0\StaticExample.exe
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\bin\Debug\net8.0\StaticExample.deps.json
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\bin\Debug\net8.0\StaticExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\bin\Debug\net8.0\StaticExample.dll
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\bin\Debug\net8.0\StaticExample.pdb
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.dll
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\refint\StaticExample.dll
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.pdb
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\StaticExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\StaticExample\StaticExample\obj\Debug\net8.0\ref\StaticExample.dll
