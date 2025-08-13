@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\bin\Debug\net8.0\StructExample.exe
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\bin\Debug\net8.0\StructExample.deps.json
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\bin\Debug\net8.0\StructExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\bin\Debug\net8.0\StructExample.dll
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\bin\Debug\net8.0\StructExample.pdb
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.dll
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\refint\StructExample.dll
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.pdb
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\StructExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\StructExample\StructExample\obj\Debug\net8.0\ref\StructExample.dll

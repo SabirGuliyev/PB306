@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\utilities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\utilities\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\utilities\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\utilities\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\utilities\\enums\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\utilities\\enums\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|c:\\users\\sabir\\desktop\\pb306\\structexample\\structexample\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1911C90-A96D-4274-8A3B-0D8C3351D048}|StructExample\\StructExample.csproj|solutionrelative:structexample\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barcode.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\Barcode.cs",
+              "RelativeDocumentMoniker": "StructExample\\Utilities\\Enums\\Barcode.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\Barcode.cs",
+              "RelativeToolTip": "StructExample\\Utilities\\Enums\\Barcode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:38:22.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "StructExample\\Utilities\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\Gender.cs",
+              "RelativeToolTip": "StructExample\\Utilities\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:34:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\WeekDay.cs",
+              "RelativeDocumentMoniker": "StructExample\\Utilities\\Enums\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Utilities\\Enums\\WeekDay.cs",
+              "RelativeToolTip": "StructExample\\Utilities\\Enums\\WeekDay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:11:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\PointStruct.cs",
+              "RelativeDocumentMoniker": "StructExample\\Models\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\PointStruct.cs",
+              "RelativeToolTip": "StructExample\\Models\\PointStruct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:11:56.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICodeAcademy.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Interfaces\\ICodeAcademy.cs",
+              "RelativeDocumentMoniker": "StructExample\\Interfaces\\ICodeAcademy.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Interfaces\\ICodeAcademy.cs",
+              "RelativeToolTip": "StructExample\\Interfaces\\ICodeAcademy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:05:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Program.cs",
+              "RelativeDocumentMoniker": "StructExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Program.cs",
+              "RelativeToolTip": "StructExample\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAowHEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:52:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\PointClass.cs",
+              "RelativeDocumentMoniker": "StructExample\\Models\\PointClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\PointClass.cs",
+              "RelativeToolTip": "StructExample\\Models\\PointClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:10:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StructExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\StructExample\\StructExample\\Models\\Student.cs",
+              "RelativeToolTip": "StructExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:04:30.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
