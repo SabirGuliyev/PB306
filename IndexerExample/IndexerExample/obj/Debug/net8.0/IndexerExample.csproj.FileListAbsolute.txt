@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.exe
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.deps.json
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.dll
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.pdb
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.dll
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\refint\IndexerExample.dll
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.pdb
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\IndexerExample\IndexerExample\obj\Debug\net8.0\ref\IndexerExample.dll

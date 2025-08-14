@@ -4,12 +4,12 @@ namespace StructExample.Utilities.Enums
 {
      enum WeekDay
     {
-        Monday=1,
-        Tuesday=2,
-        Wednesday=3,
-        Thursday=4,
-        Friday=5,
-        Saturday=6,
-        Sunday=7
+        Monday=100,
+        Tuesday=200,
+        Wednesday=300,
+        Thursday=400,
+        Friday=500,
+        Saturday=600,
+        Sunday=700
     }
 }
