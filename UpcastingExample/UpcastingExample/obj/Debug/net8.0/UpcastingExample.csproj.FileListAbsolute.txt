@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\bin\Debug\net8.0\UpcastingExample.exe
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\bin\Debug\net8.0\UpcastingExample.deps.json
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\bin\Debug\net8.0\UpcastingExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\bin\Debug\net8.0\UpcastingExample.dll
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\bin\Debug\net8.0\UpcastingExample.pdb
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.dll
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\refint\UpcastingExample.dll
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.pdb
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\UpcastingExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\UpcastingExample\UpcastingExample\obj\Debug\net8.0\ref\UpcastingExample.dll
