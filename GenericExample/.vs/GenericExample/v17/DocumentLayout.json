@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\zoo\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\zoo\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|c:\\users\\sabir\\desktop\\pb306\\genericexample\\genericexample\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB43B1C6-51DA-4373-A2B7-CED962D7A478}|GenericExample\\GenericExample.csproj|solutionrelative:genericexample\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Meat.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Meat.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Meat.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:12:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Grass.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Grass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Grass.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:11:38.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Food.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Food.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Food.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:10:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Student.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:42:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\ZooCage.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\ZooCage.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\ZooCage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:28:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Elephant.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Elephant.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Elephant.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Elephant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:27:21.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Lion.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Lion.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Lion.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Lion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:26:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Zoo\\Animal.cs",
+              "RelativeToolTip": "GenericExample\\Zoo\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:25:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Product.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:57:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Pineapple.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Pineapple.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:15:38.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Program.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Program.cs",
+              "RelativeToolTip": "GenericExample\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:14:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Orange.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Orange.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Orange.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Orange.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:15:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Apple.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Apple.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:15:31.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "GenericExample\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\GenericExample\\GenericExample\\Models\\Fruit.cs",
+              "RelativeToolTip": "GenericExample\\Models\\Fruit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:15:23.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\bin\Debug\net8.0\GenericExample.exe
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\bin\Debug\net8.0\GenericExample.deps.json
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\bin\Debug\net8.0\GenericExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\bin\Debug\net8.0\GenericExample.dll
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\bin\Debug\net8.0\GenericExample.pdb
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.dll
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\refint\GenericExample.dll
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.pdb
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\GenericExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\GenericExample\GenericExample\obj\Debug\net8.0\ref\GenericExample.dll
