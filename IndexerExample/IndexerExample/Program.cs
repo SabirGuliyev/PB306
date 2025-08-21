@@ -68,41 +68,152 @@ namespace IndexerExample
 
 
 
-            int num;
-            int num2;
-            try
-            {
-               num = int.Parse(Console.ReadLine());
-               num2 = int.Parse(Console.ReadLine());
-                Console.WriteLine(num/num2);
+            //CustomList<string> arr=new CustomList<string>("Salam","Necesiz");
 
-                string name = "Salam";
-                //Console.WriteLine(name[20]);
+            //CustomList<bool> arr2=new CustomList<bool>(true,false);
+
+            //CustomList<Student> arr3 = new CustomList<Student>();
+
+
+
+
+
+
+            //CustomList<int> customList = new CustomList<int>();
+
+            ////Console.WriteLine("Length " + customList.Length);
+
+            //customList.Add(1);
+            //customList.Add(2);
+            //customList.Add(3);
+            //customList.Add(4);
+            //customList.Add(5);
+            //customList.Add(5);
+            //customList.Add(5);
+            //customList.Add(5);
+            //customList.Add(5);
+
+            //for (int i = 0; i < customList.Count; i++)
+            //{
+            //    Console.WriteLine(customList[i]);
+            //}
+
+
+            //Console.WriteLine("Length " + customList.Length);
+
+
+
+
+
+
+
+
+
+
+
+
+            //{} {1,2,3,4}  {1,2,3,4,5 6 7 0 0 0 0 }
+
+
+            //List<int> nums= new List<int>{ 4,5,6,7,8};
+
+            //nums.Add(1);
+            //Console.WriteLine(nums.Capacity);
+
+
+            //for (int i = 0; i < nums.Count; i++)
+            //{
+
+            //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //int num;
+            //int num2;
+            //try
+            //{
+            //   num = int.Parse(Console.ReadLine());
+            //   num2 = int.Parse(Console.ReadLine());
+            //    Console.WriteLine(num/num2);
+
+            //    string name = "Salam";
+            //    //Console.WriteLine(name[20]);
+            //}
+
+            //catch (FormatException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //    num = 0;
+            //    num2 = 1;
+
+            //}
+            //catch (DivideByZeroException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //    num2 = 1;
+
+            //}
+            //catch (Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //finally
+            //{
+            //    Console.WriteLine();
+            //}
+
+            //Console.WriteLine("Kodumuz devam edir");
+
+
+            //{1 0 0 0 }
+
+            CustomList<int> customList = new();
+            customList.Add(1);
+            customList.Add(2);
+            customList.Add(3);
+            customList.Add(4);
+            customList.Add(5);
+            customList.Add(6);
+            customList.Add(7);
+            customList.Add(8);
+            customList.Add(9);
+
+            Console.WriteLine("Capacity "+customList.Length);
+
+            for (int i = 0; i < customList.Count; i++)
+            {
+                Console.WriteLine(customList[i]);
             }
 
-            catch (FormatException e)
-            {
-                Console.WriteLine(e.Message);
-                num = 0;
-                num2 = 1;
-               
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine(e.Message);
-                num2 = 1;
+            Console.WriteLine("After delete---------------");
+            customList.RemoveRange(1,2,3,4,5,6,7,8);
+            Console.WriteLine("Capacity " + customList.Length);
 
-            }
-            catch (Exception e)
+            for (int i = 0; i < customList.Count; i++)
             {
-                Console.WriteLine(e.Message);
-            }
-            finally
-            {
-                Console.WriteLine();
-            }
-          
-            Console.WriteLine("Kodumuz devam edir");
+                Console.WriteLine(customList[i]);
+            };
+
+            //customList.RemoveRange(8,9,6,7);
+
+            //Console.WriteLine("Capacity " + customList.Length);
+
+
+
         }
     }
 }
+

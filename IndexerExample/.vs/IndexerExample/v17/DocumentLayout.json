@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|c:\\users\\sabir\\desktop\\pb306\\indexerexample\\indexerexample\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|c:\\users\\sabir\\desktop\\pb306\\indexerexample\\indexerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|c:\\users\\sabir\\desktop\\pb306\\indexerexample\\indexerexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|c:\\users\\sabir\\desktop\\pb306\\indexerexample\\indexerexample\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|solutionrelative:indexerexample\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C42992A-9C22-41F0-8001-AD3DB988A874}|IndexerExample\\IndexerExample.csproj|c:\\users\\sabir\\desktop\\pb306\\indexerexample\\indexerexample\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListInt.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\ListInt.cs",
-              "RelativeDocumentMoniker": "IndexerExample\\Models\\ListInt.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\ListInt.cs",
-              "RelativeToolTip": "IndexerExample\\Models\\ListInt.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAQwD4AAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\CustomList.cs",
+              "RelativeDocumentMoniker": "IndexerExample\\Models\\CustomList.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\CustomList.cs",
+              "RelativeToolTip": "IndexerExample\\Models\\CustomList.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwGQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T16:29:24.97Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "IndexerExample\\Models\\Group.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\Group.cs",
               "RelativeToolTip": "IndexerExample\\Models\\Group.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBkAAAANAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T16:06:52.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Models\\Student.cs",
               "RelativeDocumentMoniker": "IndexerExample\\Models\\Student.cs",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Program.cs",
               "RelativeDocumentMoniker": "IndexerExample\\Program.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\IndexerExample\\IndexerExample\\Program.cs",
               "RelativeToolTip": "IndexerExample\\Program.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAuwFwAAAAZAAAA",
+              "ViewState": "AQIAALQAAAAAAAAAAAAIwLcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T16:05:22.469Z",
               "EditorCaption": ""

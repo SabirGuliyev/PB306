@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\bin\Debug\net8.0\CollectionsExample.exe
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\bin\Debug\net8.0\CollectionsExample.deps.json
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\bin\Debug\net8.0\CollectionsExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\bin\Debug\net8.0\CollectionsExample.dll
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\bin\Debug\net8.0\CollectionsExample.pdb
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.dll
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\refint\CollectionsExample.dll
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.pdb
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\CollectionsExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\CollectionsExample\CollectionsExample\obj\Debug\net8.0\ref\CollectionsExample.dll
