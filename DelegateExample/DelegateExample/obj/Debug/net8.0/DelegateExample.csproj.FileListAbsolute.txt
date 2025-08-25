@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.exe
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.deps.json
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.dll
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.pdb
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.dll
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\refint\DelegateExample.dll
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.pdb
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\DelegateExample\DelegateExample\obj\Debug\net8.0\ref\DelegateExample.dll

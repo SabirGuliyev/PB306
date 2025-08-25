@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\pb306\\delegateexample\\delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\pb306\\delegateexample\\delegateexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\pb306\\delegateexample\\delegateexample\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE1B300-BE65-49D3-845E-A2FF89E04ECD}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\models\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Models\\Student.cs",
+              "RelativeToolTip": "DelegateExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:44:20.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Models\\Pair.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Models\\Pair.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Models\\Pair.cs",
+              "RelativeToolTip": "DelegateExample\\Models\\Pair.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:45:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeToolTip": "DelegateExample\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:41:30.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
