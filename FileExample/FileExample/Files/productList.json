@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Samsung S24",
+    "Price": 2000.0,
+    "Category": { "Name": "Smartphone" }
+  },
+  {
+    "Id": 2,
+    "Name": "Iphone 15",
+    "Price": 2500.0,
+    "Category": { "Name": "Smartphone" }
+  },
+  {
+    "Id": 3,
+    "Name": "Xiaomi POCO",
+    "Price": 800.0,
+    "Category": { "Name": "Smartphone" }
+  },
+  {
+    "Id": 4,
+    "Name": "Toshiba",
+    "Price": 1800.0,
+    "Category": { "Name": "TV" }
+  },
+  {
+    "Id": 5,
+    "Name": "LG Oled",
+    "Price": 2500.0,
+    "Category": { "Name": "TV" }
+  }
+]
