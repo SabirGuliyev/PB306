@@ -1,0 +1,58 @@
+[
+  {
+    "Students": [],
+    "No": "P123",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 1,
+    "Id": "9be96e56-d5c6-44f3-a0d9-e40d7b2ea79c"
+  },
+  {
+    "Students": [],
+    "No": "D200",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 2,
+    "Id": "52a570cd-6578-4783-b350-caf694a4bf38"
+  },
+  {
+    "Students": [],
+    "No": "P125",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 1,
+    "Id": "ac592bf7-7573-4afa-b3a4-08efc9fcebc8"
+  },
+  {
+    "Students": [],
+    "No": "P600",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 1,
+    "Id": "d1e69265-7f2a-4e67-9fec-05cc6a9677b3"
+  },
+  {
+    "Students": [],
+    "No": "P500",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 1,
+    "Id": "48328968-6584-4160-9bb4-7a3daf3c11cc"
+  },
+  {
+    "Students": [],
+    "No": "P999",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 1,
+    "Id": "9a8c700a-86c4-4112-a9ac-015501901490"
+  },
+  {
+    "Students": [],
+    "No": "D201",
+    "IsOnline": true,
+    "Limit": 15,
+    "Category": 2,
+    "Id": "4be7fe50-31d0-408f-ab66-1503ddd8b09d"
+  }
+]

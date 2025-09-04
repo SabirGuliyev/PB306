@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\bin\Debug\net8.0\MultithreadingExample.exe
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\bin\Debug\net8.0\MultithreadingExample.deps.json
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\bin\Debug\net8.0\MultithreadingExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\bin\Debug\net8.0\MultithreadingExample.dll
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\bin\Debug\net8.0\MultithreadingExample.pdb
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.dll
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\refint\MultithreadingExample.dll
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.pdb
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\MultithreadingExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\MultithreadingExample\MultithreadingExample\obj\Debug\net8.0\ref\MultithreadingExample.dll

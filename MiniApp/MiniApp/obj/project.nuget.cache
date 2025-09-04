@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDT+pYfXKGHEZJcFwpruxxiUQtyx5j/Mqkfn7ChverJK9P/dpy7jRuH2y1gXsAIg9x5zlP/6CmaXjyQedvrdqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\MiniApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
