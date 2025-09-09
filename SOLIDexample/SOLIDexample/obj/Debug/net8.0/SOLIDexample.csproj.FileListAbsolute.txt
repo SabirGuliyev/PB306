@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\bin\Debug\net8.0\SOLIDexample.exe
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\bin\Debug\net8.0\SOLIDexample.deps.json
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\bin\Debug\net8.0\SOLIDexample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\bin\Debug\net8.0\SOLIDexample.dll
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\bin\Debug\net8.0\SOLIDexample.pdb
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.dll
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\refint\SOLIDexample.dll
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.pdb
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\SOLIDexample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\SOLIDexample\SOLIDexample\obj\Debug\net8.0\ref\SOLIDexample.dll

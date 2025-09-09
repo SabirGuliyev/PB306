@@ -9,9 +9,13 @@ using System.Threading.Tasks;
 
 namespace MiniApp.Repositories
 {
-    internal class Repository<T> where T : BaseEntity
+    internal class Repository<T> : IRepository<T>
+        where T : BaseEntity 
     {
-
+        public Repository()
+        {
+            throw new Exception("Salam");
+        }
         public void Serialize(string path,List<T> items)
         {
             string json=JsonConvert.SerializeObject(items);

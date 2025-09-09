@@ -10,7 +10,11 @@ namespace MiniApp.Services
     {
         public readonly string _path = @"C:\Users\sabir\Desktop\PB306\MiniApp\MiniApp\Data\Groups.json";
 
-        public Repository<Group> GroupRepository { get; set; } = new Repository<Group>();
+        public IRepository<Group> GroupRepository;
+        public GroupService(IRepository<Group> repository)
+        {
+            GroupRepository=repository;
+        }
         private Category? GetCategory()
         {
             int num;

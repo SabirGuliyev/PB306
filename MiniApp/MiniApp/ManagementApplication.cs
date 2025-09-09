@@ -1,4 +1,5 @@
 ﻿using MiniApp.Models;
+using MiniApp.Repositories;
 using MiniApp.Services;
 using MiniApp.Utilities.Enums;
 using System;
@@ -15,7 +16,7 @@ namespace MiniApp
         public GroupService GroupService { get; set; }
         public ManagementApplication()
         {
-            GroupService=new GroupService();
+            GroupService=new GroupService(new Test<Group>());
         }
         public void Run()
         {

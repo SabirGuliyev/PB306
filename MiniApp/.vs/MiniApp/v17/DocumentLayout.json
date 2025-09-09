@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\managementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\managementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +15,28 @@
       "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\repositories\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\repositories\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\data\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\data\\groups.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|solutionrelative:miniapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E705D21-3E3B-4E12-9FE9-3E6F6032BA50}|MiniApp\\MiniApp.csproj|c:\\users\\sabir\\desktop\\pb306\\miniapp\\miniapp\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,39 +65,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\Test.cs",
+              "RelativeDocumentMoniker": "MiniApp\\Repositories\\Test.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\Test.cs",
+              "RelativeToolTip": "MiniApp\\Repositories\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:32:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MiniApp\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MiniApp\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:26:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "MiniApp\\Repositories\\Repository.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Repositories\\Repository.cs",
               "RelativeToolTip": "MiniApp\\Repositories\\Repository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T16:07:08.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Groups.json",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Data\\Groups.json",
-              "RelativeDocumentMoniker": "MiniApp\\Data\\Groups.json",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Data\\Groups.json",
-              "RelativeToolTip": "MiniApp\\Data\\Groups.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T15:12:36.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GroupService.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Services\\GroupService.cs",
               "RelativeDocumentMoniker": "MiniApp\\Services\\GroupService.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Services\\GroupService.cs",
               "RelativeToolTip": "MiniApp\\Services\\GroupService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T17:16:56.653Z",
               "EditorCaption": ""
@@ -102,14 +123,14 @@
               "RelativeDocumentMoniker": "MiniApp\\Models\\Base\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "MiniApp\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T16:21:24.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Models\\Student.cs",
               "RelativeDocumentMoniker": "MiniApp\\Models\\Student.cs",
@@ -117,12 +138,11 @@
               "RelativeToolTip": "MiniApp\\Models\\Student.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:10:35.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:10:35.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Models\\Group.cs",
               "RelativeDocumentMoniker": "MiniApp\\Models\\Group.cs",
@@ -130,38 +150,49 @@
               "RelativeToolTip": "MiniApp\\Models\\Group.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:10:28.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:10:28.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Program.cs",
               "RelativeDocumentMoniker": "MiniApp\\Program.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Program.cs",
               "RelativeToolTip": "MiniApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T15:12:16.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ManagementApplication.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\ManagementApplication.cs",
               "RelativeDocumentMoniker": "MiniApp\\ManagementApplication.cs",
               "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\ManagementApplication.cs",
               "RelativeToolTip": "MiniApp\\ManagementApplication.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCIAAAAcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T16:07:47.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Groups.json",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Data\\Groups.json",
+              "RelativeDocumentMoniker": "MiniApp\\Data\\Groups.json",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Data\\Groups.json",
+              "RelativeToolTip": "MiniApp\\Data\\Groups.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T15:12:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PB306\\MiniApp\\MiniApp\\Utilities\\Enums\\Category.cs",
               "RelativeDocumentMoniker": "MiniApp\\Utilities\\Enums\\Category.cs",
@@ -169,12 +200,11 @@
               "RelativeToolTip": "MiniApp\\Utilities\\Enums\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:18:25.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:18:25.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -182,8 +212,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAHcUAAAAAAAAAAAiwIQUAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-27T16:59:42.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:59:42.615Z"
             }
           ]
         }
