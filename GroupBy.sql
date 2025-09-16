@@ -1,0 +1,95 @@
+
+--CREATE DATABASE UNIONEXAMPLE
+
+--USE UNIONEXAMPLE
+
+--CREATE TABLE Roles(
+--Id INT PRIMARY KEY IDENTITY,
+--Name VARCHAR(30) UNIQUE NOT NULL
+
+--)
+
+--CREATE TABLE Users(
+--Id INT PRIMARY KEY IDENTITY,
+--UserName VARCHAR(128) UNIQUE NOT NULL,
+--Password NVARCHAR(128) NOT NULL CHECK(LEN(Password)>=8),
+--RoleId INT FOREIGN KEY REFERENCES Roles(Id)
+--)
+
+
+--SELECT u.UserName,r.Name AS Role FROM Users AS u
+--JOIN Roles AS r
+--ON u.RoleId=r.Id
+
+
+CREATE TABLE Categories(
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(50) UNIQUE NOT NULL
+
+)
+
+CREATE TABLE Products(
+
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(100) UNIQUE NOT NULL,
+Price DECIMAL(6,2) NOT NULL CHECK(Price>0),
+Cost DECIMAL(6,2) CHECK(Cost>=0),
+CategoryId INT REFERENCES Categories(Id)
+)
+
+CREATE TABLE Colors(
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(50) UNIQUE NOT NULL
+)
+
+CREATE TABLE ProductColors(
+ProductId INT REFERENCES Products(Id),
+ColorId INT  REFERENCES Colors(Id)
+
+)
+
+
+
+SELECT p.Name,COUNT(c.Name) AS [Color Count], cat.Name AS Category FROM Products AS p
+JOIN ProductColors AS pc
+ON p.Id=pc.ProductId
+JOIN Colors AS c
+ON pc.ColorId=c.Id
+
+JOIN Categories AS cat
+ON p.CategoryId=cat.Id
+WHERE p.Price>1000
+GROUP BY p.Name,cat.Name
+HAVING COUNT(c.Name)>2
+
+
+
+SELECT Max(Price) FROM Products
+
+
+
+
+
+CREATE TABLE KhProducts(
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(100) NOT NULL,
+Price DECIMAL(7,2)
+)
+
+CREATE TABLE IrshadProducts(
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(100) NOT NULL,
+Price DECIMAL(7,2)
+)
+
+
+
+
+SELECT Name FROM KhProducts
+EXCEPT
+SELECT Name FROM IrshadProducts
+
+
+SELECT Name FROM IrshadProducts
+EXCEPT
+SELECT Name FROM KhProducts
