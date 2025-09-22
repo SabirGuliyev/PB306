@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\bin\Debug\net8.0\DataTypeExample.exe
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\bin\Debug\net8.0\DataTypeExample.deps.json
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\bin\Debug\net8.0\DataTypeExample.runtimeconfig.json
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\bin\Debug\net8.0\DataTypeExample.dll
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\bin\Debug\net8.0\DataTypeExample.pdb
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.sourcelink.json
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.dll
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\refint\DataTypeExample.dll
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.pdb
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\DataTypeExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\PB306\DataTypeExample\DataTypeExample\obj\Debug\net8.0\ref\DataTypeExample.dll
