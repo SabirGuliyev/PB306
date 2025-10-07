@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lys+8itHTkSMgwrt6RCLinDJhjMlF+/rD9Uc++Ro1w0ZeQUmFy7Rh/iZEIWrz6RduB7ghMJgPkexiIYhmWB7QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\PB306\\ADOExample\\ADOExample\\ADOExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\sabir\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
