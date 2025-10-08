@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <!-- <center>Salam</center> -->
+    <!-- <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Group</th>
+                <th colspan="2">Fullname</th>
+                <th>Group</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Eynulla</td>
+                <td>Testov</td>
+                <td rowspan="2">PB306</td>
+            </tr>
+            <tr>
+                <td>Aytac</td>
+                <td>Memmedova</td>
+               
+            </tr>
+
+        </tbody>
+    </table> -->
+
+
+
+
+
+    <form>
+
+        <label for="name">Name</label>
+        <input id="name" type="text" minlength="3" maxlength="15" placeholder="+994 50 555 44 33"
+            pattern="^[A-Za-z]{3,15}$">
+        <br>
+
+        <label for="surname">Surname</label>
+        <input id="surname" type="text">
+        <br>
+
+        <label for="email">Email</label>
+        <input id="email" type="email" value="sabir@gmail.com" disabled>
+        <br>
+
+        <label for="password">Password</label>
+        <input id="password" type="password" required>
+        <br>
+        <label for="phone">Phone</label>
+        <input id="phone" type="tel">
+        <br>
+
+
+        <label for="male">Male</label>
+        <input id="male" type="radio" name="gender">
+
+        <label for="female">Female</label>
+        <input id="female" type="radio" name="gender">
+        <br>
+        <!-- <br>
+        <label for="c#">C#</label>
+        <input id="c#" type="checkbox">
+        <br>
+        <label for="javaScript">JavaScript</label>
+        <input id="javaScript" type="checkbox">
+        <br>
+        <label for="sql">SQL</label>
+        <input id="sql" type="checkbox"> -->
+        <!-- <br>
+        <input type="date">
+        <br>
+        <input type="file" accept="image/*" multiple>
+        <br> -->
+        <!-- <input type="hidden" value="Salam"> -->
+        <!-- <input type="range">
+        <input type="number" min="20" max="100"> -->
+        <!-- <input type="reset"> -->
+        <!-- <input type="week"> -->
+
+        <!-- <button type="button">Tesdiq et</button> -->
+
+        <!-- <label for="report">Shikayet ve teklifler</label> -->
+        <!-- <br>
+         <textarea id="report" rows="10" cols="25">
+
+         </textarea> -->
+
+
+
+        <label for="category">Choose category</label>
+        <select id="category">
+
+            <option value="null" selected disabled>Choose Category</option>
+            <optgroup label="Reqemsal">
+                <option value="1">TV</option>
+                <option value="2">Smartphone</option>
+            </optgroup>
+
+            <optgroup label="Meishet eshyalari">
+                <option value="3">Refrigerator</option>
+                <option value="4">Playstation</option>
+            </optgroup>
+
+        </select>
+
+        <br>
+        <br>
+        <input type="submit" value="Tesdiq et">
+
+    </form>
+
+
+
+
+
+
+</body>
+
+</html>
