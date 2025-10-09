@@ -1,0 +1,24 @@
+  .text-red {
+            color: red;
+        }
+
+        .text-large {
+            font-size: 50px;
+        }
+
+        .text-bg-blue {
+
+            background-color: blue;
+        }
+
+        .text-red.text-large {
+            border: 4px solid black;
+        }
+
+
+        .test>h1 {
+            color: red;
+        }
+        [target="_blank"]{
+            color: aqua;
+        }
