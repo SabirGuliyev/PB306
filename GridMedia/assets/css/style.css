@@ -103,7 +103,7 @@
 
 @media only screen and (max-width:1200px) and (min-width:980px) {
 
-    .col-2 {
+    .col-3-lg {
         width: calc(100% / 12 * 3);
     }
 
@@ -111,7 +111,7 @@
 }
 
 @media only screen and (max-width:979px) and (min-width:768px) {
-    .col-2 {
+    .col-4-md {
         width: calc(100% / 12 * 4);
     }
 }
