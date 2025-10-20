@@ -1,0 +1,43 @@
+
+
+$primary-color:#b70a0a;
+$secondary-color:rgba(196, 196, 17, 0.943);
+$main-size:40px;
+
+
+
+
+p{
+    color: $secondary-color;
+}
+body{
+    background-color:$primary-color;
+}
+
+
+.navbar{
+
+    height: 200px;
+    display: flex;
+    background-color: aqua;
+    
+    &:hover{
+         background-color: bisque;
+    }
+
+    ul{
+        display: flex;
+        justify-content: space-between;
+
+        li{
+           
+            a{
+                font-size: $main-size;
+                 color: $secondary-color;
+
+            }
+
+        }
+
+    }
+}

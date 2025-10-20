@@ -1,0 +1,26 @@
+p {
+  color: rgba(196, 196, 17, 0.943);
+}
+
+body {
+  background-color: #b70a0a;
+}
+
+.navbar {
+  height: 200px;
+  display: flex;
+  background-color: aqua;
+}
+.navbar:hover {
+  background-color: bisque;
+}
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar ul li a {
+  font-size: 40px;
+  color: rgba(196, 196, 17, 0.943);
+}
+
+/*# sourceMappingURL=style.css.map */
