@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+
+    <script>
+        const body = document.querySelector("body")
+        const id = window.location.search.slice(4)
+
+        fetch(`https://api.tvmaze.com/shows/${id}`)
+            .then(response => response.json())
+            .then(movie => {
+
+
+                body.innerHTML += `
+                                    <h1>${movie.name}</h1>
+                                    <img src="${movie.image.medium}" alt="${movie.name}">
+
+                                    <p>${movie.genres}</p>
+                                    <p>${movie.summary}</p>
+        
+        `
+            })
+
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\IntroMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\corporative\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\corporative\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\shared\\_christmaslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\shared\\_christmaslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\controllers\\corporativecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\controllers\\corporativecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|c:\\users\\sabir\\desktop\\intromvc\\intromvc\\intromvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{84445DBF-B04A-422F-A001-B6843577A363}|IntroMVC\\IntroMVC.csproj|solutionrelative:intromvc\\intromvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:37:05.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ChristmasLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Shared\\_ChristmasLayout.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Shared\\_ChristmasLayout.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Shared\\_ChristmasLayout.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Shared\\_ChristmasLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:34:54.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:28:30.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Corporative\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Corporative\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Corporative\\Index.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Corporative\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:14:05.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Home\\Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T16:31:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T16:29:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\appsettings.json",
+              "RelativeToolTip": "IntroMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T15:29:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorporativeController.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Controllers\\CorporativeController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\CorporativeController.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Controllers\\CorporativeController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\CorporativeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:11:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:39:16.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Program.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\Program.cs",
+              "RelativeToolTip": "IntroMVC\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:29:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntroMVC",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\IntroMVC.csproj",
+              "RelativeDocumentMoniker": "IntroMVC\\IntroMVC.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\IntroMVC\\IntroMVC\\IntroMVC.csproj",
+              "RelativeToolTip": "IntroMVC\\IntroMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T15:29:25.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
