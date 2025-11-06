@@ -1,0 +1,96 @@
+﻿@using ViewBagExample.Models
+@using ViewBagExample.ViewModels
+@model HomeVM
+
+
+
+
+<ul>
+
+    @foreach (Teacher teacher in Model.Teachers)
+    {
+        <li>@teacher.Id @teacher.Name @teacher.Salary</li>
+    }
+</ul>
+<hr>
+
+    <ul> 
+
+        @foreach (Student student in Model.Students)
+    {
+        <li>@student.Id @student.Name @student.Age</li>
+    }
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* @{
+
+    TempData["Name"] = "Eynulla";
+}
+ *@
+
+@* @TempData["Name"] *@
+
+
+
+@* <ul>
+    @foreach(Student student in ViewData["Students"] as List<Student> )
+    {
+        <li>@student.Id @student.Name @student.Age </li>
+    }
+
+</ul> *@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* 
+<ul>
+ 
+
+   @foreach(Student student in ViewBag.Students)
+    {
+        <li>@student.Id @student.Name @student.Age </li>
+    } 
+
+
+</ul>  *@
+
